@@ -44,7 +44,7 @@ namespace AzureBeyondBasics.Controllers
 
             // Execute the insert operation.
             table.Execute(insertOperation);
-            /*
+            
 
             // Create the queue client.
             var queueClient = storageAccount.CreateCloudQueueClient();
@@ -58,7 +58,7 @@ namespace AzureBeyondBasics.Controllers
             // Create a message and add it to the queue.
             var message = new CloudQueueMessage(customer.RowKey);
             queue.AddMessage(message);
-            */
+          
             return View(customer);
 
 

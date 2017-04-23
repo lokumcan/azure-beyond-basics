@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBeyondBasics", "AzureBeyondBasics\AzureBeyondBasics.csproj", "{2112FD1F-1E84-426E-A3F5-3D515A5EA410}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessCustomer", "ProcessCustomer\ProcessCustomer.csproj", "{3623A937-4F2E-42A6-80DA-66F31F97A405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2112FD1F-1E84-426E-A3F5-3D515A5EA410}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2112FD1F-1E84-426E-A3F5-3D515A5EA410}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2112FD1F-1E84-426E-A3F5-3D515A5EA410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3623A937-4F2E-42A6-80DA-66F31F97A405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3623A937-4F2E-42A6-80DA-66F31F97A405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3623A937-4F2E-42A6-80DA-66F31F97A405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3623A937-4F2E-42A6-80DA-66F31F97A405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
